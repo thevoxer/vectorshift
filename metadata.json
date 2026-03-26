@@ -1,0 +1,5 @@
+{
+  "name": "VectorShift",
+  "description": "A powerful tool to convert PNG raster images into clean SVG and EPS vector graphics using Gemini AI.",
+  "requestFramePermissions": []
+}
